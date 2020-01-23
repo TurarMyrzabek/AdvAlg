@@ -1,7 +1,5 @@
 import java.util.*;
 
-// import sun.security.provider.certpath.AdjacencyList;
-
 public class graph {
     private final Map<Integer, ArrayList<Integer>> adjListsMap;
 
